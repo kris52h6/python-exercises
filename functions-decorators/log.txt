@@ -1,0 +1,43 @@
+
+Thu Mar  9 10:34:05 2023
+Thu Mar  9 10:34:18 2023
+Arguments: (1, 2) Thu Mar  9 10:35:01 2023
+Arguments: (1, 5) Thu Mar  9 10:35:06 2023
+Arguments: (1, 5) Thu Mar  9 10:36:24 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:36:25 2023
+Arguments: (1, 5) Thu Mar  9 10:37:43 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:37:43 2023
+Arguments: (1, 5) Thu Mar  9 10:38:17 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:38:17 2023
+Arguments: (1, 5) Thu Mar  9 10:45:55 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:45:55 2023
+Arguments: (1, 5) Thu Mar  9 10:46:08 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:46:08 2023
+Arguments: (1, 5) Thu Mar  9 10:46:28 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:46:28 2023
+Arguments: (1, 5) Thu Mar  9 10:46:34 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:46:34 2023
+Arguments: (1, 5) Thu Mar  9 10:46:48 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:46:48 2023
+Arguments: (1, 5) Thu Mar  9 10:47:33 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:47:33 2023
+Arguments: (1, 5) Thu Mar  9 10:47:38 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:47:38 2023
+Arguments: (1, 5) Thu Mar  9 10:47:45 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:47:45 2023
+Arguments: (1, 5) Thu Mar  9 10:47:55 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:47:55 2023
+Arguments: (1, 5) Thu Mar  9 10:49:06 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:49:06 2023
+Arguments: (1, 5) Thu Mar  9 10:49:07 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:49:07 2023
+Arguments: (1, 5) Thu Mar  9 10:50:03 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:50:03 2023
+Arguments: (1, 5) Thu Mar  9 10:50:13 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:50:13 2023
+Arguments: (1, 5) Thu Mar  9 10:50:43 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:50:43 2023
+Arguments: (1, 5) Thu Mar  9 10:51:06 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:51:06 2023
+Arguments: (1, 5) Thu Mar  9 10:51:09 2023
+Arguments: ('Hello my friend',) Thu Mar  9 10:51:09 2023
